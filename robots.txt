@@ -1,3 +1,5 @@
 User-Agent: *
 Allow: /
 
+Sitemap: https://mrfasams.github.io/koleda-decore.github.io/sitemap.xml
+Sitemap: https://mrfasams.github.io/koleda-decore.github.io/sitemapimages.xml

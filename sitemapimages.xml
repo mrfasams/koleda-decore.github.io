@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://mrfasams.github.io/koleda-decore.github.io/sitemap.xsl"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+      xsi:schemaLocation="
+            http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <url>
+       <loc>https://mrfasams.github.io/koleda-decore.github.io/about.html</loc>
+       <lastmod>2023-01-14T04:32:55+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+       <image:image>
+         <image:loc>https://mrfasams.github.io/koleda-decore.github.io/img/decorated-chrismas-tree-pine-new-year-lighs-closeup-135289378.jpg</image:loc>
+         <image:caption>Unlimited Sitemap Generator Box</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://mrfasams.github.io/koleda-decore.github.io/index.hml</loc>
+       <lastmod>2023-01-14T04:30:02+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+       <image:image>
+         <image:loc>https://mrfasams.github.io/koleda-decore.github.io/img/decorated-chrismas-tree-pine-new-year-lighs-closeup-135289378.jpg</image:loc>
+         <image:caption>XML-Sitemaps Sitemap Generator</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://mrfasams.github.io/koleda-decore.github.io/img/merry-christmas-tree-transporter-bringing-gifts-to-all-sweethearts-mas-evening-80487472.jpg</image:loc>
+         <image:caption>Click to open our partner site in a new window</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://mrfasams.github.io/koleda-decore.github.io/contact.html</loc>
+       <lastmod>2023-01-14T04:32:55+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+       <image:image>
+         <image:loc>https://mrfasams.github.io/koleda-decore.github.io/img/christmas-village-1609076.jpg</image:loc>
+         <image:caption>Click to open our partner site in a new window</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://mrfasams.github.io/koleda-decore.github.io/idei-za-decoracia/christmas-ideas.html</loc>
+       <lastmod>2023-01-14T04:30:02+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+       <image:image>
+         <image:loc>https://mrfasams.github.io/koleda-decore.github.io/img/ideas-funny.png</image:loc>
+         <image:caption>Click to open our partner site in a new window</image:caption>
+       </image:image>
+  </url>
+  <url>
+       <loc>https://mrfasams.github.io/koleda-decore.github.io/koledni-igrachki/gallery.html</loc>
+       <lastmod>2023-01-14T04:32:55+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+       <image:image>
+         <image:loc>https://mrfasams.github.io/koleda-decore.github.io/img/christmas-decoration-christmas-trees-cones-white-background-47322240.jpg</image:loc>
+         <image:caption>Download</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://mrfasams.github.io/koleda-decore.github.io/img/christmas-border-extra-wide-fir-branches-red-silver-baubles-pine-cones-other-ornaments-isolated-white-61991336.jpg</image:loc>
+         <image:caption>Open</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://mrfasams.github.io/koleda-decore.github.io/img/winter-cappuccino-coffee-white-cup-christmas-cookies-star-shaped-warm-scarf-red-rural-still-life-35040902.jpg</image:loc>
+         <image:caption>FTP login</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://mrfasams.github.io/koleda-decore.github.io/img/two-chrismas-trees-white-background-big-tree-decorate-ball-gift-light-104740556.jpg</image:loc>
+         <image:caption>Public html folder</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://mrfasams.github.io/koleda-decore.github.io/img/decorated-chrismas-tree-pine-new-year-lighs-closeup-135291150.jpg</image:loc>
+         <image:caption>Drag files</image:caption>
+       </image:image>
+       <image:image>
+         <image:loc>https://mrfasams.github.io/koleda-decore.github.io/img/christmas-decoration-christmas-trees-cones-white-background-47322240.jpg</image:loc>
+         <image:caption>After uploading files</image:caption>
+       </image:image>
+      
+  </url>
+  
+</urlset>
